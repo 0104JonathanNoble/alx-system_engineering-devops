@@ -5,3 +5,7 @@ List files in directory in detail
 List files and hidden files
 List files numerically
 Create directory through specific path
+Move a file to directory path
+Delete a file in directory path
+Delete a directory through directory path
+Change to previous working directory
