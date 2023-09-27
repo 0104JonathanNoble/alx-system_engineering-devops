@@ -9,3 +9,6 @@ Move a file to directory path
 Delete a file in directory path
 Delete a directory through directory path
 Change to previous working directory
+List files in current directory parent directory and /boot in order
+Print the file type
+Create symbolic link
