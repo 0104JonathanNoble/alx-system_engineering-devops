@@ -12,3 +12,4 @@ Change to previous working directory
 List files in current directory parent directory and /boot in order
 Print the file type
 Create symbolic link
+Copy files html to parent directory
