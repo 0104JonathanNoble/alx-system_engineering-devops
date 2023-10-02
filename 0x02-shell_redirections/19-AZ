@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ac" |tr 'ac' 'ze'
+tr 'ac' 'ze'
