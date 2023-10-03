@@ -6,3 +6,9 @@ List environment variables
 List local variables
 Create local variable
 Create global variable
+Add 128 to environment variable
+Power divided by divide
+Breath to the power of love
+Convert base 2 to base 10
+Combination of two letters except 'oo'
+Two decimal places
